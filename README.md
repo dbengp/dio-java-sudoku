@@ -1,5 +1,5 @@
 #Desafio DIO - : 
-O Sudoku é um jogo de lógica e paciência, e não requer cálculos matemáticos, apenas raciocínio dedutivo. Se precisar de ajuda para resolver um Sudoku ou entender melhor as estratégias, estou à disposição!
+O Sudoku é um jogo de lógica e paciência, e não requer cálculos matemáticos, apenas raciocínio dedutivo.
 - Estruturação:
   - Grade: O Sudoku é jogado em uma grade de 9x9, dividida em 9 subgrades menores de 3x3.
   - Números: O objetivo é preencher a grade com números de 1 a 9.
